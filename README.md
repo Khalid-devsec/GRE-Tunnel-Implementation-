@@ -3,7 +3,6 @@
 This repository contains the configuration and topology details for a Site-to-Site GRE (Generic Routing Encapsulation) Tunnel built using Cisco Packet Tracer.
 
 ## 📍 Topology Map
-![Network Topology]
 <img width="1821" height="673" alt="topology-image" src="https://github.com/user-attachments/assets/5c2f2337-d2e1-46da-88c5-fda4cdb48aab" />
 
 
